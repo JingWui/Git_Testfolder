@@ -1,1 +1,3 @@
 This is just to test my Git local copy
+
+This is to test if Pull from GitHub will modify my local copy
