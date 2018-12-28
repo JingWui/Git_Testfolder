@@ -1,2 +1,2 @@
-# This folder just for testing purpose!
+# This folder is just for Testing and Learning purpose!
 
