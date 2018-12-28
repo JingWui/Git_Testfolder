@@ -44,13 +44,13 @@ Please refer to the example files for each of the three gene regulatory systems 
 ![manuscript_figure1](https://user-images.githubusercontent.com/32381993/50499775-58e86a00-0a87-11e9-9993-5ed192d7aec2.png)
 
 ### BMSS-validated Results
-#### `Inducible System`
+#### Inducible System
 ![github_induciblesystem](https://user-images.githubusercontent.com/32381993/50501327-593a3280-0a92-11e9-9491-4574241672e3.png)
 
-#### `Constitutive System`
+#### Constitutive System
 ![github_constitutivesystem](https://user-images.githubusercontent.com/32381993/50503415-d9b45f80-0aa1-11e9-9692-99b0fffde1a4.png)
 
-#### `Logic Gates System`
+#### Logic Gates System
 ![github_logicgatessystem](https://user-images.githubusercontent.com/32381993/50503680-a8d52a00-0aa3-11e9-9bab-680b900a6f4e.png)
 
 
